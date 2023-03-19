@@ -1131,6 +1131,7 @@
         <file name="BattleText.ogg" />
         <file name="PlayerHeal.ogg" />
         <file name="GasterBlast2.ogg" />
+		<file name="Dogsong.ogg" />
     </sounds-folder>
     <music-folder>
         <file name="mus_zz_megalovania.ogg" />
